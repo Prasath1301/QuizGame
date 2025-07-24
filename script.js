@@ -87,7 +87,24 @@ const quizQuestions = [
       { text: "சீத்திம்", correct: true },
     ],
   },
-  
+   {
+     question: "தூப்பீடம் எந்த மரத்தால் உண்டாக்கப்பட்டது?",
+    answers: [
+      { text: "கர்வாலி", correct: false },
+      { text: "சீத்திம்", correct: true },
+      { text: "மாதுளை", correct: false },
+      { text: "புன்னை", correct: false },
+    ],
+  },
+   {
+     question: "தகனபலிபீடத்தை சீத்திம் மரத்தால் உண்டாக்கயது யார்?",
+    answers: [
+      { text: "பெசலெயேல்", correct: true },
+      { text: "யோனதாப்", correct: false },
+      { text: "அபிமலேக்கு", correct: false },
+      { text: "யோனத்தான்", correct: false },
+    ],
+  },
 ];
 
 // QUIZ STATE VARS
