@@ -19,8 +19,8 @@ const quizQuestions = [
     question: "Who is considered to be the internal user of the financial information?",
     answers: [
       { text: "Customer", correct: false },
-      { text: "Government", correct: false },
-      { text: "Employee", correct: true },
+      { text: "Government", correct: true },
+      { text: "Employee", correct: false },
       { text: "Creditor", correct: false },
     ],
   },
