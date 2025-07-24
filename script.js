@@ -16,12 +16,12 @@ const progressBar = document.getElementById("progress");
 
 const quizQuestions = [
   {
-    question: "இசாக்கு",
+    question: "நோவா எந்த மரத்தால் பேழையை உண்டு பண்ணினான்?",
     answers: [
-      { text: "Customer", correct: false },
-      { text: "Government", correct: true },
-      { text: "Employee", correct: false },
-      { text: "Creditor", correct: false },
+      { text: "தேவதாரு மரம்", correct: false },
+      { text: "கர்வாலி மரம்", correct: false },
+      { text: "கொப்பேர் மரம்", correct: true },
+      { text: "வாதுமை மரம்", correct: false },
     ],
   },
   {
