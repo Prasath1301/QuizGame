@@ -48,14 +48,14 @@ const quizQuestions = [
       { text: "மாதளமரம்", correct: false },
       { text: "தேவதாரு மரம்", correct: false },
       { text: "புன்னை மரம்", correct: false },
-      { text: "கர்வாலி மரம்", correct:  },
+      { text: "கர்வாலி மரம்", correct: true },
     ],
   },
   {
     question: "தெபோராள் எந்த மரத்தின் கீழ் அடக்கம் பண்ணப்பட்டாள்",
     answers: [
       { text: "அத்தி மரம்", correct: false },
-      { text: "கர்வாலி மரம்", correct:  },
+      { text: "கர்வாலி மரம்", correct: false },
       { text: "ஒலிவ மரம்", correct: true },
       { text: "பேரீச்சை மரம்", correct: false },
     ],
@@ -63,7 +63,7 @@ const quizQuestions = [
    {
     question: "மோசே தண்ணீரில் மரத்தைப் போட்ட இடம் எது?",
     answers: [
-      { text: "மாரா", correct:  },
+      { text: "மாரா", correct: true },
       { text: "மேரிபா", correct: false },
       { text: "மாசா", correct: false },
       { text: "கானான்", correct: false },
@@ -72,7 +72,7 @@ const quizQuestions = [
    {
      question: "வாசஸ்தலத்துக்கு பலகைகள் எந்த மரத்தால் செய்யப்பட்டது?",
     answers: [
-      { text: "சீத்திம்", correct:  },
+      { text: "சீத்திம்", correct: true },
       { text: "கர்வாலி", correct: false },
       { text: "கொப்பேர்", correct: false },
       { text: "வாதுமை", correct: true },
@@ -85,231 +85,6 @@ const quizQuestions = [
       { text: "தேவதாரு", correct: false },
       { text: "அத்தி", correct: false },
       { text: "சீத்திம்", correct: true },
-    ],
-  },
-   {
-    question: "?",
-    answers: [
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: true },
-    ],
-  },
-   {
-     question: "?",
-    answers: [
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: true },
-    ],
-  },
-   {
-     question: "?",
-    answers: [
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: true },
-    ],
-  },
-   {
-     question: "?",
-    answers: [
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: true },
-    ],
-  },
-   {
-     question: "?",
-    answers: [
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: true },
-    ],
-  },
-   {
-     question: "?",
-    answers: [
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: true },
-    ],
-  },
-   {
-     question: "?",
-    answers: [
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: true },
-    ],
-  },
-   {
-     question: "?",
-    answers: [
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: true },
-    ],
-  },
-   {
-     question: "?",
-    answers: [
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: true },
-    ],
-  },
-   {
-     question: "?",
-    answers: [
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: true },
-    ],
-  },
-   {
-     question: "?",
-    answers: [
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: true },
-    ],
-  },
-   {
-     question: "?",
-    answers: [
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: true },
-    ],
-  },
-   {
-    question: "",
-    answers: [
-      { text: "", correct: true },
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: false },
-    ],
-  },
-   {
-     question: "?",
-    answers: [
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: true },
-    ],
-  },
-   {
-     question: "?",
-    answers: [
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: true },
-    ],
-  },
-   {
-     question: "?",
-    answers: [
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: true },
-    ],
-  },
-   {
-     question: "?",
-    answers: [
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: true },
-    ],
-  },
-   {
-     question: "?",
-    answers: [
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: true },
-    ],
-  },
-   {
-     question: "?",
-    answers: [
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: true },
-    ],
-  },
-   {
-     question: "?",
-    answers: [
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: true },
-    ],
-  },
-   {
-     question: "?",
-    answers: [
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: true },
-    ],
-  },
-   {
-     question: "?",
-    answers: [
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: true },
-    ],
-  },
-   {
-     question: "?",
-    answers: [
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: true },
-    ],
-  },
-   {
-     question: "?",
-    answers: [
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: true },
-    ],
-  },
-   {
-     question: "?",
-    answers: [
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: false },
-      { text: "", correct: true },
     ],
   },
   
