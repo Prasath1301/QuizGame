@@ -16,7 +16,7 @@ const progressBar = document.getElementById("progress");
 
 const quizQuestions = [
   {
-    question: "Who is considered to be the internal user of the financial information?",
+    question: "இசாக்கு",
     answers: [
       { text: "Customer", correct: false },
       { text: "Government", correct: true },
